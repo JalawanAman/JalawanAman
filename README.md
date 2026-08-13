@@ -62,6 +62,11 @@ A Python agent that reasons over its own toolset to map an authorized target's s
 
 Open to freelance and contract work on AI agents, RAG systems, and automation.
 
-- **LinkedIn** &middot; `add-your-url`
-- **Upwork** &middot; `add-your-url`
-- **Email** &middot; `add-your-email`
+<p>
+  <a href="https://www.linkedin.com/in/jalawan-aman-khan-7a7943299/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~01f1f6b509c6d56610">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"></a>
+  <a href="mailto:jalawanamankhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
