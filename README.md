@@ -34,32 +34,32 @@ I'm an AI engineer with 3.5+ years of professional experience building LLM appli
 
 ### Featured work
 
-**[Eduimmersion](https://staging.eduimmersion.com) — production bilingual AI learning platform**
+**[Eduimmersion](https://staging.eduimmersion.com): production bilingual AI learning platform**
 A live EN/FR platform for the Québec school system. Learners generate complete study packages (a lesson, quiz, and reflection) grounded in the official curriculum, while schools assign work to their students through a connected teacher portal. I began on the backend and grew into the owner of the full platform, building the AI generation pipelines, a RAG help chatbot, Stripe billing, and the school portal.
 `Django` `Next.js` `OpenAI` `Gemini`
 
-**[TrekTek](https://trekteknj.com) — AI lead-gen assistant + site theming**
+**[TrekTek](https://trekteknj.com): AI lead-gen assistant + site theming**
 For a New Jersey tech-services company: a 24/7 RAG chat assistant that answers visitor questions, qualifies leads, guides them to book a free consultation, and emails the team, embedded as a native, theme-aware WordPress plugin. I also built the site's light/dark theme system.
 `Next.js` `OpenAI` `RAG` `Supabase` `Resend`
 
-**[Argus](https://github.com/JalawanAman/argus) — autonomous security recon agent** *(open source, in progress)*
+**[Argus](https://github.com/JalawanAman/argus): autonomous security recon agent** *(open source, in progress)*
 A Python agent that reasons over its own toolset to map an authorized target's surface and assess exposure, using a two-brain design where a senior model plans and a local model handles the grunt work. Early, but public.
 `Python` `OpenAI` `Agents`
 
 ### Experience
 
-- **AI Engineer, CronCore** (2024 to present) — delivered AI features end-to-end while supporting full-stack and web work across the company's products: LLM integration, voice AI agents, React / Node / Python, and custom WordPress plugins.
-- **Backend Engineer, Shurq** (2022 to present) — built the backend data layer for an agentic AI platform for Amazon sellers: the Amazon SP-API and Advertising API across all 12 marketplaces, OAuth, rate limiting, and near-real-time data pipelines feeding real-time dashboards and AI agents.
+- **AI Engineer, CronCore** (2024 to present). Delivered AI features end-to-end while supporting full-stack and web work across the company's products: LLM integration, voice AI agents, React / Node / Python, and custom WordPress plugins.
+- **Backend Engineer, Shurq** (2022 to present). Built the backend data layer for an agentic AI platform for Amazon sellers: the Amazon SP-API and Advertising API across all 12 marketplaces, OAuth, rate limiting, and near-real-time data pipelines feeding real-time dashboards and AI agents.
 
 ### Toolbox
 
-**AI** &nbsp; OpenAI &middot; Claude &middot; Hugging Face / LLaMA &middot; LangChain &middot; Google ADK &middot; MCP &middot; RAG &amp; vector databases &middot; n8n
+**AI** &nbsp; `OpenAI` `Claude` `Hugging Face` `LLaMA` `LangChain` `Google ADK` `MCP` `RAG` `Vector DBs` `n8n`
 
-**Backend** &nbsp; Python &middot; Django &middot; Node &middot; PostgreSQL &middot; Supabase &middot; REST APIs
+**Backend** &nbsp; `Python` `Django` `Node` `PostgreSQL` `Supabase` `REST APIs`
 
-**Frontend** &nbsp; Next.js &middot; React &middot; TypeScript
+**Frontend** &nbsp; `Next.js` `React` `TypeScript`
 
-**Also** &nbsp; Stripe &middot; WordPress &middot; Docker &middot; Git
+**Also** &nbsp; `Stripe` `WordPress` `Docker` `Git`
 
 ### Let's build something
 
