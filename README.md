@@ -54,8 +54,11 @@ A Python agent that reasons over its own toolset to map an authorized target's s
 ### Toolbox
 
 **AI** &nbsp; OpenAI &middot; Claude &middot; Hugging Face / LLaMA &middot; LangChain &middot; Google ADK &middot; MCP &middot; RAG &amp; vector databases &middot; n8n
+
 **Backend** &nbsp; Python &middot; Django &middot; Node &middot; PostgreSQL &middot; Supabase &middot; REST APIs
+
 **Frontend** &nbsp; Next.js &middot; React &middot; TypeScript
+
 **Also** &nbsp; Stripe &middot; WordPress &middot; Docker &middot; Git
 
 ### Let's build something
