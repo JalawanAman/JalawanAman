@@ -21,7 +21,7 @@
 
 ---
 
-I'm an AI engineer with 3.5+ years of professional experience building LLM applications and autonomous agents, practical systems that use tools, call APIs, and carry multi-step work through to a real outcome. I've shipped production AI across education, local services, and e-commerce, working with GPT, Claude, and open models like LLaMA. My focus is simple: solutions that hold up in real use, not demos.
+I'm an AI engineer with 4+ years of professional experience building LLM applications and autonomous agents, practical systems that use tools, call APIs, and carry multi-step work through to a real outcome. I've shipped production AI across education, local services, and e-commerce, working with GPT, Claude, and open models like LLaMA. My focus is simple: solutions that hold up in real use, not demos.
 
 ### What I build
 
